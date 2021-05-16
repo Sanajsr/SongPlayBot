@@ -11,6 +11,6 @@ Easy To Deploy 🤗
 # DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 # Group
-You can also join our support group [here!](https://t.me/TamilSupport)
+You can also join our support group [here!](https://t.me/AS_Music_group_Official) 
 # Report error
-Report your problem along with your name to This [person](https://t.me/IMVETRI)
+Report your problem along with your name to This [person](https://t.me/sanaj0_5)
